@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecqurAIse</string>
+    <string name="dialogMessage">You need to accept location permission to use this app.</string>
+</resources>
