@@ -1,5 +1,7 @@
 # Secquraise-Assignment-Android
 
+**APK Link :** https://drive.google.com/file/d/1VoGXhfithVB-BBBhBsZExGqoVKdwJzNM/view?usp=sharing
+
 ## Some Screenshots
 
 <img src="https://github.com/mondal-souvik/git/assets/100204863/d18317bc-d46c-4126-b865-41a497aa8ee3" height="470" width="220" hspace="10">
